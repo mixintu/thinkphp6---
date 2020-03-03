@@ -31,6 +31,11 @@ composer create-project topthink/think tp 6.0.*
 composer update topthink/framework
 ~~~
 
+## 效果展示
+![前端-前台](前端-前台.png)
+![前段-后台](前段-后台.png)
+![后端-数据库](后端-数据库.png)
+
 ## 文档
 
 [完全开发手册](https://www.kancloud.cn/manual/thinkphp6_0/content)
